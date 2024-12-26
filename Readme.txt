@@ -5,7 +5,7 @@ Special thanks to radarhere from the pillow project for his work on the flc pale
 Note: The images are made from other peoples work and remain their intellectual property
 Requirements:
 	numpy
-	pillow
+	pillow >= 9.3.0
 	guizero
 	requests
 v2.0
